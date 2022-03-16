@@ -8,3 +8,10 @@ script1 covers datatypes examples
 script2 covers array examples
 
 script3.js covers forEach() examples
+
+script4.js - 'this' keyword
+
+script5.js - functions 
+
+
+
